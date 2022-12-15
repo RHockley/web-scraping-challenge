@@ -1,3 +1,21 @@
+# ANSWERS TO QUESTIONS
+## how many months are there on Mars?
+12
+
+## how many Martian (not Earth) days' worth of data are there in the scraped dataset?
+1977
+
+## what are the coldest and warmest months on Mars (at the location of Curiosity)? Obtain the answer by averaging the minimum daily temperature of each month. Plot the results as a bar plot.
+Coldest = month 3
+Warmest = month 8
+
+## which months have the lowest and highest atmospheric pressure on Mars? Obtain the answer by averaging the daily atmospheric pressure of each month. Plot the results as a bar plot.
+Lowest = month 6
+Highest = month 9
+
+## approximately how many terrestrial (earth) days are there in a Martian year? In other words, in the time that Mars circles the Sun once, how many days elapse on the Earth? Estimate the result visually by plotting the daily minimum temperature.
+Approximately 730 Earth days
+
 # Unit 12 Homework: Mission to Mars
 
 In this assignment, you will scrape information from Mars-related websites and analyse it with Pandas. The following information outlines what you need to do.
